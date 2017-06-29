@@ -178,6 +178,8 @@ article img{
         - Float article images to the right
         and match sizes and spacing to the mockup
     */
+    float: right;
+    width: 50%;
 }
 article footer p{
     /*
@@ -185,6 +187,7 @@ article footer p{
         - Style the article footer
         HINT: Look to the article header;
     */
+    text-align: center;
 }
 #site-footer{
 
@@ -193,6 +196,8 @@ article footer p{
         TODO:
         - Style the site footer
     */
+    color: white;
+    text-align: center;
 }
 
 
