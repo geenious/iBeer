@@ -121,7 +121,7 @@ main{
         - Flexbox: Set the starting width of this element
         - Use relative positioning to bump this upward
     */
-    width: 50%;
+    flex-basis: 50%;
     margin: -5% 0 5%;
     position: relative;
 
@@ -135,7 +135,7 @@ aside{
         - Flexbox: Set the starting width of this element
         - Use relative positioning to bump this upward
     */
-    width: 20%;
+    flex-basis: 20%;
     margin: -5% 0 5%;
     position: relative;
 }
